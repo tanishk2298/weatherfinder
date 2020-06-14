@@ -3,7 +3,6 @@ import Title from "./components/Title"
 import Form from "./components/Form"
 import Weather from "./components/Weather"
 
-const year = new Date().getFullYear();
 const API_KEY = "f912da80f4d05621e296ce21808e02f7";
 
 class App extends React.Component{
