@@ -10,4 +10,4 @@ Weather finder is a simple web application which provides its user with current 
 * Bootstrap
 
 ### Demo :
-[weatherfinder] (https://easyweatherfinder.netlify.app/)
+[weatherfinder](https://easyweatherfinder.netlify.app/)
